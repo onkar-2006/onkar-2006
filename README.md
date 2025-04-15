@@ -17,10 +17,10 @@
 <span style="color:#FFD700;"><b>❤️ Favorite quote: "Love all, serve all. Help ever, hurt never."</b></span>
 
 <span style="color:#FF69B4;"><b>🔭  🛠️ Skills,</b></span><br> 
-<span style="color:#FF69B4;"><b>🔭 **Languages**: Python 🐍,c++ ,</b></span><br> 
+<span style="color:#FF69B4;"><b>🔭 **Languages**: SQL  ,Python 🐍,c++ ,</b></span><br> 
 <span style="color:#8B008B;"><b>**Libraries**: Pandas 📚, NumPy ➕, Matplotlib 🎨, Seaborn 🌊, Scikit-learn 📉</b></span><br> 
 <span style="color:#0000FF;"><b>**Tools**: Jupyter Notebook 📓, Git 🌐,.</b></span><br> 
-<span style="color:#FFD700;"><b>**Frameworks**: TensorFlow 🔗, Keras ⚙️</b></span>
+<span style="color:#FFD700;"><b>**Frameworks**: TensorFlow 🔗, Keras , MLOPS , ⚙️</b></span>
 
 
 
