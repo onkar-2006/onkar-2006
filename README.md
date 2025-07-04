@@ -9,18 +9,18 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 
-<span style="color:#0000FF;"><b>👀 Currently pursuing Bachalor of Engineering.</b></span><br> 
+<span style="color:#0000FF;"><b>👀 Currently pursuing Bachalor of Engineering. computer engineering</b></span><br> 
 <span style="color:#228B22;"><b>🌱 Based in **Pune**.</b></span><br> 
-<span style="color:#FF69B4;"><b>🔭 - 💻 Enthusiastic about **Data Science**, **Machine Learning**</b></span><br> 
+<span style="color:#FF69B4;"><b>🔭 - 💻 Enthusiastic about **Data Science**, **Machine Learning**,**Gen AI** </b></span><br> 
 <span style="color:#8B008B;"><b>💞️ I’m looking to collaborate on educational projects.</b></span><br> 
 <span style="color:#0000FF;"><b> 📈 Constantly learning and eager to tackle new challenges! 🚀.</b></span><br> 
 <span style="color:#FFD700;"><b>❤️ Favorite quote: "Love all, serve all. Help ever, hurt never."</b></span>
 
 <span style="color:#FF69B4;"><b>🔭  🛠️ Skills,</b></span><br> 
-<span style="color:#FF69B4;"><b>🔭 **Languages**: SQL  ,Python 🐍,c++ ,</b></span><br> 
+<span style="color:#FF69B4;"><b>🔭 **Languages**: Mysql  ,Python 🐍,c++ ,</b></span><br> 
 <span style="color:#8B008B;"><b>**Libraries**: Pandas 📚, NumPy ➕, Matplotlib 🎨, Seaborn 🌊, Scikit-learn 📉</b></span><br> 
 <span style="color:#0000FF;"><b>**Tools**: Jupyter Notebook 📓, Git 🌐,.</b></span><br> 
-<span style="color:#FFD700;"><b>**Frameworks**: TensorFlow 🔗, Keras , MLOPS , ⚙️</b></span>
+<span style="color:#FFD700;"><b>**Frameworks**: TensorFlow 🔗, Keras , MLOPS ,langchain , langgrapgh ⚙️</b></span>
 
 
 
