@@ -20,18 +20,12 @@
 
 ### Python3 Libraries and Frameworks
 | Scikit-Learn | Spark | Numpy | Pandas | Matplotlib | Seaborn | OpenCV | Streamlit | Flask 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="100" width="90"> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_of_the_Astropy_Project.png" height="100" width="90"> | <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="100" width="90"> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" height="100" width="90"> | <img 
 
 ### Deep Learning
 | Tensorflow | PyTorch |
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" height="100" width="100"> |
-
-### Quantum Computing
-| Q# | IBM Qiskit |
-|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Q_mini.png" height="100" width="100"> | <img src="https://logowik.com/content/uploads/images/qiskit9093.logowik.com.webp" height="100" width="100"> |
 
 
 
