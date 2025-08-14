@@ -13,7 +13,6 @@
 
 ### Languages
 | Python | 
-| ------ | ----------- | ----- | ---- | --------- | ------ | ----------------- | - | -- | ------ |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="100" width="100"> | <img 
 
 
