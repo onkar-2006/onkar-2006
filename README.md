@@ -1,99 +1,85 @@
-<!-- IU animation -->
-
-
-<a href="https://github.com/NK-Works">
-    <img src="ai-eng-hub.gif" width="100%"/>
-</a>
-
-<br> </br>
-
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
-
-
-
-### Languages
-| Python | 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="100" width="100"> 
-
-
-
-### Python3 Libraries and Frameworks
-
-|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="100" width="90"> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_of_the_Astropy_Project.png" height="100" width="90"> | <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="100" width="90"> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" height="100" width="90"> | <img 
-
-### Deep Learning
-| Tensorflow | PyTorch |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" height="100" width="100"> |
-
-
-
-### Platforms
-| Conda | Jupyter | VS Code |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Conda" width="100" height="100"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="100" height="100"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="100" height="100"/>|
-
-
-
-
-<span style="color:#0000FF;"><b>👀 Currently pursuing Bachalor of Engineering. computer engineering</b></span><br> 
-<span style="color:#228B22;"><b>🌱 Based in **Pune**.</b></span><br> 
-<span style="color:#FF69B4;"><b>🔭 - 💻 Enthusiastic about **Data Science**, **Machine Learning**,**Gen AI** </b></span><br> 
-<span style="color:#8B008B;"><b>💞️ I’m looking to collaborate on educational projects.</b></span><br> 
-<span style="color:#0000FF;"><b> 📈 Constantly learning and eager to tackle new challenges! 🚀.</b></span><br> 
-<span style="color:#FFD700;"><b>❤️ Favorite quote: "Love all, serve all. Help ever, hurt never."</b></span>
-
-<span style="color:#FF69B4;"><b>🔭  🛠️ Skills,</b></span><br> 
-<span style="color:#FF69B4;"><b>🔭 **Languages**: Mysql  ,Python 🐍,c++ ,</b></span><br> 
-<span style="color:#8B008B;"><b>**Libraries**: Pandas 📚, NumPy ➕, Matplotlib 🎨, Seaborn 🌊, Scikit-learn 📉</b></span><br> 
-<span style="color:#0000FF;"><b>**Tools**: Jupyter Notebook 📓, Git 🌐,.</b></span><br> 
-<span style="color:#FFD700;"><b>**Frameworks**: TensorFlow 🔗, Keras , MLOPS ,langchain , langgrapgh ⚙️</b></span>
-
-
-
-<h1 align="center"> 📊 GitHub Stats: </h1>
-
+# 👋 Hi, I'm Onkar Kshirsagar 
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onkar-2006&theme=transparent" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onkar-2006&theme=transparent"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onkar-2006&theme=transparent"  />
- <a href="https://github.com/NK-Works"> 
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
-</a>
-
-
-
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onkar-2006&theme=transparent"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onkar-2006&theme=transparent" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;LLM+%26+Generative+AI+Specialist;Full+Stack+AI+Developer" alt="Typing SVG" />
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+  [![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFCA1B?style=for-the-badge)](https://huggingface.co/your-hf-username)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🤖 About Me
+I’m a **Machine Learning Engineer** passionate about **Generative AI** and **Large Language Models (LLMs)**.  
+I love building AI-powered solutions using PyTorch, TensorFlow, LangChain, and deploying them into real-world applications.  
+
+- 🔭 Currently working on: **LLM-powered civic tech solutions with LangGraph & multimodal AI**  
+- 🌱 Learning: **RLHF, DPO, and AI Agents with LangGraph**  
+- 💬 Ask me about: **LLMs, MLOps, LangChain, Computer Vision, Full-Stack AI apps**  
+- 📫 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)  
+- ⚡ Fun fact: I can turn coffee ☕ into clean code ⚡  
+
+## 🛠️ Tech Stack
+
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-white.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+
+### Backend Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-FFCA1B?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-2006&show_icons=true&theme=transparent&hide_border=true&card_width=500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-<a href="https://github.com/NK-Works"> 
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
-</a>
 
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Blog Title 1](https://your-blog-link.com)
+- [Blog Title 2](https://your-blog-link.com)
+- [Blog Title 3](https://your-blog-link.com)
+<!-- BLOG-POST-LIST:END -->
 
-![IU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onkar-2006&theme=react-dark&hide_border=true)
+## 🌐 Connect With Me
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter)
+[![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/your-hf-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+[![Kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle-username)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow-id)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@your-medium)
+[![PyPI](https://img.shields.io/badge/pypi-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/your-pypi-username/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+## 🤝 Looking to Collaborate?
+I’m currently open to collaborating on **AI/ML research projects, LLM applications, and full-stack AI development**.  
+If you have an exciting project idea, feel free to reach out! 🚀  
 
-<h2 align="center"> ✍️ Random Developer Quote </h2>
-
+---
 <div align="center">
-  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
+  
+  ⭐ If you like my work, consider starring my repositories and following me!
 </div>
 
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">    
-
-![](https://visitcount.itsvg.in/api?id=Om-rajale&icon=0&color=0)
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
-</p>
+---
+*Last Updated: October 2025*
