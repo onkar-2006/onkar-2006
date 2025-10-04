@@ -10,12 +10,12 @@
 </div>
 
 ## 🤖 About Me
-I’m a **Machine Learning Engineer** passionate about **Generative AI** and **Large Language Models (LLMs)**.  
-I love building AI-powered solutions using PyTorch, TensorFlow, LangChain, and deploying them into real-world applications.  
+ passionate about **Generative AI** and **Large Language Models (LLMs)**.  
+I love building AI-powered solutions using  TensorFlow, LangChain , langgraph, and deploying them into real-world applications.  
 
-- 🔭 Currently working on: **LLM-powered civic tech solutions with LangGraph & multimodal AI**  
+- 🔭 Currently working on: **bulding the agents with LangGraph & multimodal AI**  
 - 🌱 Learning: **RLHF, DPO, and AI Agents with LangGraph**  
-- 💬 Ask me about: **LLMs, MLOps, LangChain, Computer Vision, Full-Stack AI apps**  
+- 💬 Ask me about: **LLMs, MLOps, LangChain, Computer Vision **  
 - 📫 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)  
 - ⚡ Fun fact: I can turn coffee ☕ into clean code ⚡  
 
