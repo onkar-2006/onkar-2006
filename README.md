@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Onkar Kshirsagar 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;LLM+%26+Generative+AI+Specialist;Full+Stack+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=LLM+%26+Generative+AI+Specialist;Full+Stack+AI+Developer" alt="Typing SVG" />
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
