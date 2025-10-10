@@ -16,7 +16,6 @@ I love building AI-powered solutions using  TensorFlow, LangChain , langgraph, a
 - 🔭 Currently working on: **bulding the agents with LangGraph & multimodal AI**  
 - 🌱 Learning: **RLHF, DPO, and AI Agents with LangGraph**  
 - 💬 Ask me about: **LLMs, MLOps, LangChain, Computer Vision **  
-- 📫 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)  
 - ⚡ Fun fact: I can turn coffee ☕ into clean code ⚡  
 
 ## 🛠️ Tech Stack
@@ -30,21 +29,16 @@ I love building AI-powered solutions using  TensorFlow, LangChain , langgraph, a
 ![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 
 ### Backend Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-FFCA1B?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -53,13 +47,6 @@ I love building AI-powered solutions using  TensorFlow, LangChain , langgraph, a
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Title 1](https://your-blog-link.com)
-- [Blog Title 2](https://your-blog-link.com)
-- [Blog Title 3](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect With Me
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter)
