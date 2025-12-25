@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=LLM+%26+Generative+AI+Specialist;Full+Stack+AI+Developer" alt="Typing SVG" />
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolionkar.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
   [![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFCA1B?style=for-the-badge)](https://huggingface.co/your-hf-username)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
