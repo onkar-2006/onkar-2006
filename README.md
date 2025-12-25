@@ -59,12 +59,5 @@ I love building AI-powered solutions using  TensorFlow, LangChain , langgraph, a
 I’m currently open to collaborating on **AI/ML research projects, LLM applications, and full-stack AI development**.  
 If you have an exciting project idea, feel free to reach out! 🚀  
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  ⭐ If you like my work, consider starring my repositories and following me!
-</div>
 
----
-*Last Updated: October 2025*
+*Last Updated: November 2025*
