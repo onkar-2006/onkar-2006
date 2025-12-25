@@ -48,12 +48,6 @@ I love building AI-powered solutions using  TensorFlow, LangChain , langgraph, a
 ![C++](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ## 🌐 Connect With Me
 
