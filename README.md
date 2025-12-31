@@ -7,7 +7,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/onkar-kshirsagar-19a4a8298/)
   [![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFCA1B?style=for-the-badge)]()
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshirsagaronkar987@gmail.com)
-  [![Leetcode](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://leetcode.com/u/onkar_300/)
+  [![Leetcode](https://img.shields.io/badge/Leetcode-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://leetcode.com/u/onkar_300/)
 
 </div>
 
